@@ -13,7 +13,7 @@ public class Task8 {
                 original /= 10;
             }
 
-            System.out.println(reversibleNum);
+            System.out.println("number reversation: " + reversibleNum);
         }
     }
 }
